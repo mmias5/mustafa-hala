@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ألوان مستوحاة من الأردن -->
+    <color name="primary">#50746C</color> <!-- أخضر زيتوني داكن -->
+    <color name="primary_variant">#3C574F</color> <!-- أخضر زيتوني أعمق -->
+    <color name="secondary">#D2B48C</color> <!-- لون رملي/صحراوي -->
+    <color name="secondary_variant">#BFA27F</color> <!-- لون رملي أغمق -->
+    <color name="accent_color">#C75B12</color> <!-- برتقالي/أحمر البتراء -->
+    <color name="background">#F8F5F1</color> <!-- لون خلفية فاتح -->
+    <color name="surface">#FFFFFF</color> <!-- سطح أبيض -->
+    <color name="error">#B71C1C</color> <!-- أحمر للأخطاء -->
+    <color name="on_primary">#FFFFFF</color> <!-- نص أبيض على الألوان الأساسية -->
+    <color name="on_secondary">#000000</color> <!-- نص أسود على الألوان الثانوية -->
+    <color name="on_background">#333333</color> <!-- نص على الخلفية -->
+    <color name="on_surface">#333333</color> <!-- نص على السطح -->
+    <color name="on_error">#FFFFFF</color> <!-- نص على الخطأ -->
+    <color name="edit_color">#2E7D32</color> <!-- أخضر للتعديل -->
+    <color name="delete_color">#C62828</color> <!-- أحمر للحذف -->
+
+    <!-- ألوان الوضع المظلم (Dark Mode) -->
+    <color name="primary_dark">#3C574F</color> <!-- أخضر زيتوني أغمق -->
+    <color name="primary_variant_dark">#2A3C36</color> <!-- أخضر زيتوني أعمق جداً -->
+    <color name="secondary_dark">#A38868</color> <!-- لون رملي/صحراوي أغمق -->
+    <color name="secondary_variant_dark">#7A6851</color> <!-- لون رملي أعمق -->
+    <color name="background_dark">#121212</color> <!-- خلفية داكنة -->
+    <color name="surface_dark">#1E1E1E</color> <!-- سطح داكن -->
+    <color name="on_primary_dark">#FFFFFF</color> <!-- نص أبيض على الألوان الأساسية -->
+    <color name="on_secondary_dark">#000000</color> <!-- نص أسود على الألوان الثانوية -->
+    <color name="on_background_dark">#E0E0E0</color> <!-- نص فاتح على الخلفية الداكنة -->
+    <color name="on_surface_dark">#E0E0E0</color> <!-- نص فاتح على السطح الداكن -->
+</resources>
